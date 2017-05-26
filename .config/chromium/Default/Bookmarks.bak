@@ -1,0 +1,39 @@
+{
+   "checksum": "33373abf35558a0966b7d17af85dffd3",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13139289666143680",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13139289997085430"
+            },
+            "name": "Airblader/i3: i3-gaps – i3 with more features (forked from https://github.com/i3/i3)",
+            "type": "url",
+            "url": "https://github.com/Airblader/i3"
+         } ],
+         "date_added": "13139289365227295",
+         "date_modified": "13139289666143680",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13139289365227300",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13139289365227301",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
