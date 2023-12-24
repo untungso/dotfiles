@@ -1,4 +1,4 @@
 # dotfiles
 linux ricing
 
-![alt text](https://raw.githubusercontent.com/hecterbonha/dotfiles/master/2017-05-26-200407_1920x1080_scrot.png)
+![alt text](https://raw.githubusercontent.com/untungso/dotfiles/master/Screenshot%20from%202023-12-24%2023-54-02.png)
